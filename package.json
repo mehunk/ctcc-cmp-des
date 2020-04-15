@@ -1,0 +1,15 @@
+{
+  "name": "ctcc-cmp-des",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Wei Qiang<mehunk@163.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mehunk/ctcc-cmp-des.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
+  },
+  "license": "MIT"
+}
