@@ -1113,3 +1113,6 @@ function naturalOrdering(arr) {
   }
   return result;
 }
+
+exports.strEnc = strEnc;
+exports.naturalOrdering = naturalOrdering;
